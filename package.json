@@ -1,0 +1,14 @@
+{
+  "name": "trulse",
+  "version": "1.0.0",
+  "description": "Is it true? Is it false? Who knows? Who cares?",
+  "main": "index.js",
+  "keywords": [
+    "true",
+    "false",
+    "trulse",
+    "pain"
+  ],
+  "author": "Juho Häkkinen <juho@juhohakkinen.fi>",
+  "license": "WTFPL"
+}
