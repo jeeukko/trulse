@@ -37,6 +37,7 @@ Or you can make a pull request. I don't care.
 ## License
 
 Copyright © 2020 Juho Häkkinen
+
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
